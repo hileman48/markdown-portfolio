@@ -1,1 +1,1 @@
-https://physics.illinois.edu/
+[uiuc](https://physics.illinois.edu/)
